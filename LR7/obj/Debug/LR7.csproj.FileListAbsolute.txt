@@ -24,3 +24,7 @@ D:\C# apps\LR7\LR7\obj\Debug\LR7.csproj.CoreCompileInputs.cache
 D:\C# apps\LR7\LR7\obj\Debug\LR7.csproj.CopyComplete
 D:\C# apps\LR7\LR7\obj\Debug\LR7.exe
 D:\C# apps\LR7\LR7\obj\Debug\LR7.pdb
+D:\C# apps\LR7\LR7\bin\Debug\Xceed.Document.NET.dll
+D:\C# apps\LR7\LR7\bin\Debug\Xceed.Words.NET.dll
+D:\C# apps\LR7\LR7\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\C# apps\LR7\LR7\bin\Debug\stdole.dll
